@@ -14,6 +14,12 @@
       "description": "Best practices for dotnet coding",
       "version": "1.0.0",
       "source": "./plugins/dotnet-best-practices"
+    },
+    {
+      "name": "context7",
+      "description": "Plugin for context 7, for searching libraries",
+      "version": "1.0.0",
+      "source": "./plugins/context7"
     }
   ]
 }
