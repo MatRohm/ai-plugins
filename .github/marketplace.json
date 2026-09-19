@@ -1,0 +1,19 @@
+ {
+  "name": "my-marketplace",
+  "owner": {
+    "name": "matrohm",
+    "email": "matthias.rohrmoser@gmail.com"
+  },
+  "metadata": {
+    "description": "My stuff",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dotnet-best-practices",
+      "description": "Best practices for dotnet coding",
+      "version": "1.0.0",
+      "source": "./plugins/dotnet-best-practices"
+    }
+  ]
+}
